@@ -1,0 +1,3 @@
+include ':LiveModule'
+include ':app'
+rootProject.name = "Aloud_cluster"
